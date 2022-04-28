@@ -32,7 +32,7 @@
     "apollo-utilities": "^1.0.21",
     "babel-register": "^6.26.0",
     "bcryptjs": "^2.4.3",
-    "cross-fetch": "^3.0.4",
+    "cross-fetch": "^3.1.5",
     "env-cmd": "^10.0.1",
     "graphql": "^0.13.2",
     "graphql-cli": "^3.0.14",
